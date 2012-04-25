@@ -55,9 +55,6 @@ def dead(why):
 	print why, "Good Job!"
 	exit(0)
 	
-def dead(why):
-	print why, "Good Job!"
-	exit(0)
 def start():
 	print "You are in a dark room."
 	print "There is a door to your right and left."
